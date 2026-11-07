@@ -365,7 +365,7 @@ footer {
     <div class="profile-card">
 
       <div class="avatar">
-        <img src="/hamza.png" alt="Hamza Rafa">
+        <img src="https://instagram.falg2-2.fna.fbcdn.net/v/t51.82787-19/867009707_18101084213642171_8146771692505140349_n.jpg?_nc_cat=111&_nc_map=urlgen_bucketless&ig_cache_key=GKuErTO7g5oW105AAH0M_t2wJQ9xbmNDAQAB0j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=_s0NAGynmpEQ7kNvwG_ch8M&_nc_oc=AdrS5gg4TXUYdKCJOpR6Y40IIiH1puWaNlu2767PRHyUjUTWRfSRbu-IYuJH1Vrk1O4&_nc_zt=24&_nc_ht=instagram.falg2-2.fna&_nc_gid=eGknYsGewwf_JZpfbg2TRw&_nc_ss=7b6a8&oh=00_AQRCy-w5QtyROPhBvaRbKYeGAKJ3asCm2SI3OqBy95cj_A&oe=6AF51B4D" alt="Hamza Rafa">
       </div>
 
       <h2>Hamza Rafa</h2>
